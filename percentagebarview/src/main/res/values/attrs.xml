@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PercentageBarView">
+        <attr name="colorNoActive" format="reference" />
+        <attr name="colorActive" format="reference" />
+        <attr name="radius" format="dimension" />
+    </declare-styleable>
+</resources>
